@@ -1,0 +1,4 @@
+﻿  formato.c
+C:\Users\cri\Desktop\info 1\capitolo 3\formato is ex\formato ishex\formato.c(19,16): warning C4047: '==': 'int' differisce da 'char [2]' nei livelli di riferimento indiretto
+C:\Users\cri\Desktop\info 1\capitolo 3\formato is ex\formato ishex\formato.c(19,28): warning C4047: '==': 'int' differisce da 'char [2]' nei livelli di riferimento indiretto
+  formato ishex.vcxproj -> C:\Users\cri\Desktop\info 1\capitolo 3\formato is ex\formato ishex\Debug\formato ishex.exe

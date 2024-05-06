@@ -1,0 +1,6 @@
+﻿  capsula.c
+C:\Users\cri\Desktop\info 1\capitolo 3\disegni_capsula\disegna capsula\capsula.c(26,26): warning C4267: 'funzione': conversione da 'size_t' a 'unsigned char'. Possibile perdita di dati.
+C:\Users\cri\Desktop\info 1\capitolo 3\disegni_capsula\disegna capsula\capsula.c(28,22): warning C4267: 'funzione': conversione da 'size_t' a 'unsigned char'. Possibile perdita di dati.
+C:\Users\cri\Desktop\info 1\capitolo 3\disegni_capsula\disegna capsula\capsula.c(43,23): warning C4267: 'funzione': conversione da 'size_t' a 'unsigned char'. Possibile perdita di dati.
+C:\Users\cri\Desktop\info 1\capitolo 3\disegni_capsula\disegna capsula\capsula.c(47,27): warning C4267: 'funzione': conversione da 'size_t' a 'unsigned char'. Possibile perdita di dati.
+  disegna capsula.vcxproj -> C:\Users\cri\Desktop\info 1\capitolo 3\disegni_capsula\disegna capsula\Debug\disegna capsula.exe

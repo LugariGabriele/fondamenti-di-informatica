@@ -1,0 +1,4 @@
+﻿  cono.c
+C:\Users\cri\Desktop\info 1\capitolo 3\disegna cono\disegna_cono\cono.c(28,14): warning C4047: 'funzione': 'int' differisce da 'char [2]' nei livelli di riferimento indiretto
+C:\Users\cri\Desktop\info 1\capitolo 3\disegna cono\disegna_cono\cono.c(28,11): warning C4024: 'putchar': tipi diversi tra il parametro 1 formale e quello effettivo
+  disegna_cono.vcxproj -> C:\Users\cri\Desktop\info 1\capitolo 3\disegna cono\disegna_cono\Debug\disegna_cono.exe

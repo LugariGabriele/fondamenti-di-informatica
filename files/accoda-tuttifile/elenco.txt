@@ -1,0 +1,6 @@
+file0001.txt
+file0002.txt
+file numero 3.txt
+file0004.txt
+file0005.txt
+ultimo.txt

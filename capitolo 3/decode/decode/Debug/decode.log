@@ -1,0 +1,4 @@
+﻿  decode.c
+  main.c
+C:\Users\cri\Desktop\info 1\capitolo 3\decode\decode\main.c(4,14): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generazione del codice in corso...

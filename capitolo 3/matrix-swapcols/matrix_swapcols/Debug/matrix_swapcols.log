@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\cri\Desktop\info 1\capitolo 3\matrix-swapcols\matrix_swapcols\main.c(10,14): warning C4047: 'funzione': 'const char *const ' differisce da 'double (*)[9]' nei livelli di riferimento indiretto
+C:\Users\cri\Desktop\info 1\capitolo 3\matrix-swapcols\matrix_swapcols\main.c(10,9): warning C4024: 'printf': tipi diversi tra il parametro 1 formale e quello effettivo
+C:\Users\cri\Desktop\info 1\capitolo 3\matrix-swapcols\matrix_swapcols\main.c(12,14): warning C4047: 'funzione': 'const char *const ' differisce da 'double (*)[9]' nei livelli di riferimento indiretto
+C:\Users\cri\Desktop\info 1\capitolo 3\matrix-swapcols\matrix_swapcols\main.c(12,9): warning C4024: 'printf': tipi diversi tra il parametro 1 formale e quello effettivo
+  matrix_swapcols.vcxproj -> C:\Users\cri\Desktop\info 1\capitolo 3\matrix-swapcols\matrix_swapcols\Debug\matrix_swapcols.exe
