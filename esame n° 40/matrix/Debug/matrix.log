@@ -1,0 +1,6 @@
+﻿  matrix.c
+C:\Users\Utente\Desktop\lele uni\MODENA\info 1\prove esame\40\4\matrix\matrix.c(9,29): warning C4013: 'calloc' undefined; assuming extern returning int
+C:\Users\Utente\Desktop\lele uni\MODENA\info 1\prove esame\40\4\matrix\matrix.c(12,59): warning C4047: '=': 'double *' differs in levels of indirection from 'int'
+C:\Users\Utente\Desktop\lele uni\MODENA\info 1\prove esame\40\4\matrix\matrix.c(20,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double *'
+C:\Users\Utente\Desktop\lele uni\MODENA\info 1\prove esame\40\4\matrix\matrix.c(9,1): warning C4047: 'initializing': 'matrix *' differs in levels of indirection from 'int'
+  matrix.vcxproj -> C:\Users\Utente\Desktop\lele uni\MODENA\info 1\prove esame\40\4\matrix\Debug\matrix.exe
